@@ -1,0 +1,80 @@
+.ctsp{
+    width: 1200px;
+    height: 560px;
+    /* border: 1px solid black; */
+    margin-left: 70px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    background-color: rgb(222, 247, 255);
+}
+.ctsp .anh{
+    height: 600px;
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.ctsp .anh .anhchinh{
+    width: 400px;
+    height: 400px;
+}
+.ctsp .anh .anhphu p{
+    width: 80px;
+    height: 80px;
+    float: left;
+    border: 10px solid rgb(221, 221, 221);
+}
+.ctsp .nd .gia{
+    margin-top: 20px;
+}
+.ctsp .nd{
+    height: 600px;
+    width: 50%;
+    float: right; 
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.ctsp .nd b {
+    color: red;
+}
+.ctsp .nd .soluong{
+    margin-top: 20px;
+}
+.ctsp .nd .soluong button{
+    width: 50px;
+    
+}
+.ctsp .nd .soluong input{
+    width: 100px;
+}
+.ctsp .nd hr{
+    margin-top: 10px;
+}
+.ctsp .nd .dathang{
+    width: 500px;
+    height: auto;
+}
+.ctsp .nd .dathang button{
+    width: 200px;
+    height: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.ctsp .nd .dathang button img{
+    width: 15px;
+    height: 15px;
+    float: left;
+    margin-left: 10px;
+    
+}
+.ctsp .nd .dathang button p{
+    text-align: center;
+}
+.sptt{
+    margin-top: 10px;
+    width: 1200px;
+    height: 100px;
+    background-color: rgb(222, 247, 255);
+    margin-left: 70px;
+}
